@@ -1,0 +1,3 @@
+/Users/paxiong/CLionProjects/Arrays_assignment/cmake-build-debug/CMakeFiles/Arrays_assignment.dir
+/Users/paxiong/CLionProjects/Arrays_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paxiong/CLionProjects/Arrays_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
